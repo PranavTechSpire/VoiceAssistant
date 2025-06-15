@@ -1,0 +1,23 @@
+[12328:21804:0413/161658.765:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
+[17216:19632:0413/161658.914:VERBOSE1:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[16536:11552:0413/161658.920:INFO:cpu_info.cc(53)] Available number of cores: 16
+[18688:3448:0413/161658.920:INFO:cpu_info.cc(53)] Available number of cores: 16
+[19232:20764:0413/161659.184:INFO:cpu_info.cc(53)] Available number of cores: 16
+[18944:17240:0413/161659.320:INFO:cpu_info.cc(53)] Available number of cores: 16
+[10996:21768:0413/161659.944:INFO:cpu_info.cc(53)] Available number of cores: 16
+[17216:18452:0413/161700.752:WARNING:angle_platform_impl.cc(54)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[9800:9608:0413/161704.103:INFO:cpu_info.cc(53)] Available number of cores: 16
+[12328:21804:0413/161707.209:INFO:CONSOLE(152)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yq/r/NPpHInvVBDy.js (152)
+[12328:21804:0413/161709.936:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5156
+[12328:21804:0413/161710.509:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[12328:21804:0413/161712.799:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[12328:21804:0413/161714.390:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[12328:21804:0413/161715.657:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45169
+[12328:21804:0413/161720.872:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[12328:21804:0413/161721.305:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[12328:21804:0413/161721.636:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747170
+[12328:21804:0413/161723.142:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
+[3696:16600:0413/161817.930:WARNING:sqlite_persistent_store_backend_base.cc(176)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[3696:16600:0413/161817.930:WARNING:sqlite_persistent_store_backend_base.cc(176)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
